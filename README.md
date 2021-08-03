@@ -7,7 +7,7 @@ Next, i present some of the projects i got involved over the years.
 
 # [Project 1: Construction of an autonomous sailboat plaform N-boat](https://nboat-documentation.readthedocs.io/en/master/index.html)
 
-This is a project that i've been working since 2013 when i was an undergrad. N-boat is a fully autonomous sailboat robot capable of performing long term offshore missions without human intervention. I developed most of the electronic system and the software of the sailboat (both navigation and control).
+This is a project that i've been working since 2013 when i was an undergrad. N-boat is a fully autonomous sailboat robot capable of performing long term offshore missions without human intervention. I participated in the developement of the electronic system and most of the software for the intelligence of the sailboat (both autonomous navigation and control).
 
 <p align="center">
   <img src="https://nboat-documentation.readthedocs.io/en/nboat2/_images/nboat.png" width="400" alt="Nboat2"/>
@@ -25,6 +25,9 @@ This is a project that i've been working since 2013 when i was an undergrad. N-b
 
 - Simulator with multiple USV vehicles
 - Realistic disturbances (wind and water current)
+- Participated in the development of the platforms (models, dynamics) and their control system
+
+![](https://github.com/disaster-robotics-proalertas/usv_sim_lsa/blob/master/images/barcos4.png)
 
 # [Project 4: Simulator for a quadcopter competition using ROS-GAZEBO](https://github.com/Natalnet/cbr_petrobras)
 
@@ -32,10 +35,12 @@ Our robotic lab was going to participate in a competition in 2019 and the first 
 
 ![cbr_sim](https://user-images.githubusercontent.com/2212793/64193224-bae94280-ce52-11e9-8a00-676d157d9d0f.png)
 
-# Project 5: Forecast of COVID-19 time series using STACKED-LSTM
+# [Project 5: Forecast of COVID-19 time series using STACKED-LSTM](https://github.com/Natalnet/ncovid-air-paper)
 
 - Predict infected and deaths number caused by COVID-19
 - Use of deep learning techniques
+- Developed the data pre-processing, training and evaluation
+- Hyperparameter optimization of the network architecture
+- Evaluation of multiple forecast models (generated with STACKED-LSTM)
 
 ![alt_text](https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png)
-
