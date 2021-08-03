@@ -41,7 +41,7 @@ Our robotic lab was going to participate in a competition in 2019 and the first 
 
 - Predict infected and deaths number caused by COVID-19
 - Use of deep learning techniques
-- Developed the data pre-processing, training and evaluation
+- Developed the data pre-processing, training, evaluation and visualization
 - Hyperparameter optimization of the network architecture
 - Evaluation of multiple forecast models (generated with STACKED-LSTM)
 
