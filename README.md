@@ -28,7 +28,7 @@ This is a project that i've been working since 2013 when i was an undergrad. N-b
 - Participated in the development of the platforms (models, dynamics) and their control system
 
 <p align="center">
-  <img src="https://github.com/disaster-robotics-proalertas/usv_sim_lsa/blob/master/images/barcos4.png" width="400" alt="Boats"/>
+  <img src="https://github.com/disaster-robotics-proalertas/usv_sim_lsa/blob/master/images/barcos4.png" width="800" alt="Boats"/>
 </p>
 
 # [Project 4: Simulator for a quadcopter competition using ROS-GAZEBO](https://github.com/Natalnet/cbr_petrobras)
@@ -46,5 +46,5 @@ Our robotic lab was going to participate in a competition in 2019 and the first 
 - Evaluation of multiple forecast models (generated with STACKED-LSTM)
 
 <p align="center">
-  <img src="https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png" width="400" alt="covid_forecast"/>
+  <img src="https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png" width="800" alt="covid_forecast"/>
 </p>
