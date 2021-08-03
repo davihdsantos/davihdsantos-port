@@ -44,4 +44,4 @@ Our robotic lab was going to participate in a competition in 2019 and the first 
 - Hyperparameter optimization of the network architecture
 - Evaluation of multiple forecast models (generated with STACKED-LSTM)
 
-![covid_forecast](https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png)  
+![covid_forecast](https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png?raw=true)
