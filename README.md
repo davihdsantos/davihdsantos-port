@@ -37,5 +37,5 @@ Our robotic lab was going to participate in a competition in 2019 and the first 
 - Predict infected and deaths number caused by COVID-19
 - Use of deep learning techniques
 
-[](https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png)
+![alt_text](https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png)
 
