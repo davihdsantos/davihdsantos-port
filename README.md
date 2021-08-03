@@ -27,7 +27,9 @@ This is a project that i've been working since 2013 when i was an undergrad. N-b
 - Realistic disturbances (wind and water current)
 - Participated in the development of the platforms (models, dynamics) and their control system
 
-![](https://github.com/disaster-robotics-proalertas/usv_sim_lsa/blob/master/images/barcos4.png)
+<p align="center">
+  <img src="https://github.com/disaster-robotics-proalertas/usv_sim_lsa/blob/master/images/barcos4.png" width="400" alt="Boats"/>
+</p>
 
 # [Project 4: Simulator for a quadcopter competition using ROS-GAZEBO](https://github.com/Natalnet/cbr_petrobras)
 
@@ -43,4 +45,6 @@ Our robotic lab was going to participate in a competition in 2019 and the first 
 - Hyperparameter optimization of the network architecture
 - Evaluation of multiple forecast models (generated with STACKED-LSTM)
 
-![alt_text](https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png)
+<p align="center">
+  <img src="https://github.com/Natalnet/ncovid-air-paper/blob/main/forecasted_curve.png" width="400" alt="covid_forecast"/>
+</p>
