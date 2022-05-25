@@ -19,6 +19,8 @@ Heres a video of the Nboat during field experiments.
 
 And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
 
+[<img src="https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=S5Qi1rFyclI "Now in Android: 55")
+
 [![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI)
 
 # [Project 2: A framework for rapid viral infection forecast](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
