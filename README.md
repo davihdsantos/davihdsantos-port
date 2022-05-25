@@ -15,11 +15,13 @@ This is a project that I've been working on since 2013 when I was an undergrad. 
 
 Heres a video of the Nboat during field experiments.
 
+<video src='https://www.youtube.com/watch?v=S_Lfw_ExR9Y' width=180/>
+
 [![Demo CountPages alpha](https://share.gifyoutube.com/S_Lfw_ExR9Y.gif)](https://www.youtube.com/watch?v=S_Lfw_ExR9Y)
 
-And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
+[![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI)
 
-[<img src="https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=S5Qi1rFyclI "Now in Android: 55")
+And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
 
 [![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI)
 
