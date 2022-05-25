@@ -15,7 +15,7 @@ This is a project that I've been working on since 2013 when I was an undergrad. 
 
 Heres a video of the Nboat during field experiments.
 
-[![Video](https://img.youtube.com/vi/S_Lfw_ExR9Y/hqdefault.jpg)](https://youtu.be/S_Lfw_ExR9Y)
+[![Demo CountPages alpha](https://share.gifyoutube.com/S_Lfw_ExR9Y.gif)](https://www.youtube.com/watch?v=S_Lfw_ExR9Y)
 
 And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
 
