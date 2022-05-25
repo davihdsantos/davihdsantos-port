@@ -13,9 +13,13 @@ This is a project that I've been working on since 2013 when I was an undergrad. 
   <img src="https://nboat-documentation.readthedocs.io/en/nboat2/_images/nboat.png" width="400" alt="Nboat2"/>
 </p>
 
-Heres a [![Video](https://img.youtube.com/vi/S_Lfw_ExR9Y/hqdefault.jpg)](https://youtu.be/S_Lfw_ExR9Y) of the Nboat during field experiments.
+Heres a video of the Nboat during field experiments.
 
-And heres a [![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI) of the Fboat, a twin of the Nboat that we constructed in late 2021.
+[![Video](https://img.youtube.com/vi/S_Lfw_ExR9Y/hqdefault.jpg)](https://youtu.be/S_Lfw_ExR9Y)
+
+And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
+
+[![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI)
 
 # [Project 2: A framework for rapid viral infection forecast](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
 
