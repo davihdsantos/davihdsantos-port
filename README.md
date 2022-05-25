@@ -21,9 +21,11 @@ And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
 
 [![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI)
 
-# [Project 2: A framework for rapid viral infection forecast](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
+# [Project 2: A framework for rapid viral infection forecast](http://ncovid.natalnet.br/)
 
-# [Project 3: Sailboat navigation system](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
+Website in construction
+
+# [Project 3: Implementation of sailboat navigation system](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
 
 - Developed multiple controller strategies for the sail
 - Developed new strategies to sail upwind
@@ -39,13 +41,7 @@ And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
 
 ![boats](https://raw.githubusercontent.com/disaster-robotics-proalertas/usv_sim_lsa/master/images/barcos4.png)
 
-# [Project 5: Simulator for a quadcopter competition using ROS-GAZEBO](https://github.com/Natalnet/cbr_petrobras)
-
-Our lab was going to participate in a quadcopter competition in 2019 and the first step was to build this simulator to test the navigation system. Unfortunately, we didn't compete but I build this simulation world.
-
-![cbr_sim](https://user-images.githubusercontent.com/2212793/64193224-bae94280-ce52-11e9-8a00-676d157d9d0f.png)
-
-# [Project 6: Forecast of COVID-19 time series using STACKED-LSTM](https://github.com/Natalnet/ncovid-air-paper)
+# [Project 5: Forecast of COVID-19 time series using STACKED-LSTM](https://github.com/Natalnet/ncovid-air-paper)
 
 - Predict the infected and deaths time-series of COVID-19
 - Use of deep learning techniques
