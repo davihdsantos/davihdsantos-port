@@ -1,46 +1,51 @@
 # Davi Henrique's portfolio
 
-Hello, my name is Davi Henrique. I have a phd in robotics. Currently (2021) im a post-doc researcher working with time series prediction using deep learning. You can check my academic production [here](https://scholar.google.com.br/citations?user=_vNl6lAAAAAJ&hl=en).
+Hello, my name is Davi Henrique. I have a Ph.D. in robotics. Currently (2021) I'm a post-doc researcher working with time series prediction using deep learning. You can check my academic production [here](https://scholar.google.com.br/citations?user=_vNl6lAAAAAJ&hl=en).
 
-Next, i present some of the projects i got involved over the years.
+Next, I present some of the projects I've developed so far.
 
 
-# [Project 1: Construction of an autonomous sailboat plaform N-boat](https://nboat-documentation.readthedocs.io/en/master/index.html)
+# [Project 1: Construction of the autonomous sailboat plaform Nboat](https://nboat-documentation.readthedocs.io/en/master/index.html)
 
-This is a project that i've been working since 2013 when i was an undergrad. N-boat is a fully autonomous sailboat robot capable of performing long term offshore missions without human intervention. I participated in the developement of the electronic system and most of the software for the intelligence of the sailboat (both autonomous navigation and control).
+This is a project that I've been working on since 2013 when I was an undergrad. The Nboat is a fully autonomous sailboat robot capable of performing long-term offshore missions without human intervention. I participated in the design and implementation of the electronic system and most of the software for the intelligence of the sailboat (both autonomous navigation and control). This project gave me hands-on experience with all aspects of an autonomous vehicle, from its actuators control, sensors, and data processing, to its intelligence, path planning, and following. It also increased my interest in autonomous systems.
 
 <p align="center">
   <img src="https://nboat-documentation.readthedocs.io/en/nboat2/_images/nboat.png" width="400" alt="Nboat2"/>
 </p>
 
-# [Project 2: Sailboat navigation system](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
+Heres a [![Video](https://img.youtube.com/vi/S_Lfw_ExR9Y/hqdefault.jpg)](https://youtu.be/S_Lfw_ExR9Y) of the Nboat during field experiments.
+
+And heres a [![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI) of the Fboat, a twin of the Nboat that we constructed in late 2021.
+
+# [Project 2: A framework for rapid viral infection forecast](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
+
+# [Project 3: Sailboat navigation system](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
 
 - Developed multiple controller strategies for the sail
-- Created new strategy to sail upwind
-- Added metrics for perfomance evaluation
-- Implemented these feature in the Ardupilot framework
-- Tested the system in SITL
+- Developed new strategies to sail upwind
+- Added metrics for performance evaluation
+- Implemented these features in the Ardupilot framework
+- Tested the system with SITL
 
-# [Project 3: Simulator for Water Surface Vehicles in ROS-Gazebo](https://github.com/disaster-robotics-proalertas/usv_sim_lsa)
+# [Project 4: Simulator for Water Surface Vehicles in ROS-Gazebo](https://github.com/disaster-robotics-proalertas/usv_sim_lsa)
 
-- Simulator with multiple USV vehicles
+- A simulator with multiple USV platforms
 - Realistic disturbances (wind and water current)
 - Participated in the development of the platforms (models, dynamics) and their control system
 
 ![boats](https://raw.githubusercontent.com/disaster-robotics-proalertas/usv_sim_lsa/master/images/barcos4.png)
 
+# [Project 5: Simulator for a quadcopter competition using ROS-GAZEBO](https://github.com/Natalnet/cbr_petrobras)
 
-# [Project 4: Simulator for a quadcopter competition using ROS-GAZEBO](https://github.com/Natalnet/cbr_petrobras)
-
-Our robotic lab was going to participate in a competition in 2019 and the first step was to build this simulator to test the navigation system. Unfortunelly we didnt compete but i build this simulator.
+Our lab was going to participate in a quadcopter competition in 2019 and the first step was to build this simulator to test the navigation system. Unfortunately, we didn't compete but I build this simulation world.
 
 ![cbr_sim](https://user-images.githubusercontent.com/2212793/64193224-bae94280-ce52-11e9-8a00-676d157d9d0f.png)
 
-# [Project 5: Forecast of COVID-19 time series using STACKED-LSTM](https://github.com/Natalnet/ncovid-air-paper)
+# [Project 6: Forecast of COVID-19 time series using STACKED-LSTM](https://github.com/Natalnet/ncovid-air-paper)
 
-- Predict infected and deaths number caused by COVID-19
+- Predict the infected and deaths time-series of COVID-19
 - Use of deep learning techniques
-- Developed the data pre-processing, training, evaluation and visualization
+- Developed the data pre-processing, training, evaluation, and visualization
 - Hyperparameter optimization of the network architecture
 - Evaluation of multiple forecast models (generated with STACKED-LSTM)
 
