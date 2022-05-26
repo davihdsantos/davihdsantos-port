@@ -10,7 +10,7 @@ Next, I present some of the projects I've developed so far.
 This is a project that I've been working on since 2013 when I was an undergrad. The Nboat is a fully autonomous sailboat robot capable of performing long-term offshore missions without human intervention. I participated in the design and implementation of the electronic system and most of the software for the intelligence of the sailboat (both autonomous navigation and control). This project gave me hands-on experience with all aspects of an autonomous vehicle, from its actuators control, sensors, and data processing, to its intelligence, path planning, and following. It also increased my interest in autonomous systems.
 
 <p align="center">
-  <img src="https://nboat-documentation.readthedocs.io/en/nboat2/_images/nboat.png" width="400" alt="Nboat2"/>
+  <img src="https://nboat-documentation.readthedocs.io/en/nboat2/_images/nboat.png" width="250" alt="Nboat2"/>
 </p>
 
 Heres a [video](https://youtu.be/S_Lfw_ExR9Y) of the Nboat during field experiments. And heres a [video](https://youtu.be/S5Qi1rFyclI) of the Fboat, a twin of the Nboat that we constructed in late 2021.
