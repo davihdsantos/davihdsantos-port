@@ -40,8 +40,9 @@ The Ncovid framework is proposed as an environment for rapid forecast and unders
 # [Project 4: Simulator for Water Surface Vehicles in ROS-Gazebo](https://github.com/disaster-robotics-proalertas/usv_sim_lsa)
 
 - A simulator with multiple USV platforms
-- Realistic disturbances (wind and water current)
-- Participated in the development of the platforms (models, dynamics) and their control system
+- Realistic disturbances (dynamic waves, wind and water currents)
+- Hydro and Aerodynamics modeling of all platforms
+- Autopilot for all platforms (heading and speed control)
 
 ![boats](https://raw.githubusercontent.com/disaster-robotics-proalertas/usv_sim_lsa/master/images/barcos4.png)
 
