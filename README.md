@@ -17,14 +17,15 @@ Heres a [video](https://youtu.be/S_Lfw_ExR9Y) of the Nboat during field experime
 
 # [Project 2: A framework for rapid viral infection forecast](http://ncovid.natalnet.br/)
 
-The framework is proposed as an environment for rapid forecast and understanding of the dynamics of viral pandemics, using state-of-the-art data-driven methods. The Ncovid framework offers several tools for generating and evaluating predictions, from traditional epidemiological models such as SIR and SEIRD, to the more modern ones, such as LSTM and MAE, offering reliability in the results presented on the website. At the software level, the framework follows a microservices paradigm. The main goal is that the Ncovid presents itself as an initial tool for rapid understanding of the epidemiological dynamics of future viral pandemics.
+The Ncovid framework is proposed as an environment for rapid forecast and understanding of the dynamics of viral pandemics, using state-of-the-art data-driven methods. The Ncovid framework offers several tools for end-to-end generation and evaluation of predictions, from traditional epidemiological models such as SIR and SEIRD, to the more modern ones based on Machine Learning and Deep Learning, offering confidence in the forecasts presented by our website. The main goal is that the Ncovid presents itself as an initial tool for rapid understanding of the epidemiological dynamics of future viral pandemics.
 
 - Daily and weekly forecasts
 - Automated data aquisition and processing
-- Scrum/Agile
-- Continous integration and deployment
-- Evaluation of models post-deployment
+- Evaluation of models in production
 - Automated training and deployment of forecast models
+- Agile Scrum methodology
+- Continous integration and deployment
+- Containerized microservices
 
 **Website under construction**
 
