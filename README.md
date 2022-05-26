@@ -13,17 +13,20 @@ This is a project that I've been working on since 2013 when I was an undergrad. 
   <img src="https://nboat-documentation.readthedocs.io/en/nboat2/_images/nboat.png" width="400" alt="Nboat2"/>
 </p>
 
-Heres a video of the Nboat during field experiments.
-
-[![Video](https://img.youtube.com/vi/S_Lfw_ExR9Y/hqdefault.jpg)](https://youtu.be/S_Lfw_ExR9Y)
-
-And heres a of the Fboat, a twin of the Nboat that we constructed in late 2021.
-
-[![Video](https://img.youtube.com/vi/S5Qi1rFyclI/hqdefault.jpg)](https://youtu.be/S5Qi1rFyclI)
+Heres a [video](https://youtu.be/S_Lfw_ExR9Y) of the Nboat during field experiments. And heres a [video](https://youtu.be/S5Qi1rFyclI) of the Fboat, a twin of the Nboat that we constructed in late 2021.
 
 # [Project 2: A framework for rapid viral infection forecast](http://ncovid.natalnet.br/)
 
-Website in construction
+The framework is proposed as an environment for rapid forecast and understanding of the dynamics of viral pandemics, using state-of-the-art data-driven methods. The Ncovid framework offers several tools for generating and evaluating predictions, from traditional epidemiological models such as SIR and SEIRD, to the more modern ones, such as LSTM and MAE, offering reliability in the results presented on the site. At the software level, the framework is modular to allow quick changes thanks to the microservices structure used. The main goal is that the Ncovid presents itself as an initial tool for rapid understanding of the epidemiological dynamics of future viral pandemics.
+
+- Daily and weekly forecasts
+- Automated data aquisition and processing
+- Scrum/Agile
+- Continous integration and deployment
+- Evaluation of models post-deployment
+- Automated training and deployment of forecast models
+
+**Website under construction**
 
 # [Project 3: Implementation of sailboat navigation system](https://github.com/Natalnet/ardupilot/tree/nboat_develop)
 
