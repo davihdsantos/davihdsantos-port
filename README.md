@@ -47,9 +47,9 @@ The Ncovid framework is proposed as an environment for rapid forecast and unders
 
 # [Project 5: Forecast of COVID-19 time series using STACKED-LSTM](https://github.com/Natalnet/ncovid-air-paper)
 
-- Predict the infected and deaths time-series of COVID-19
+- Predict the infected and deaths time series of COVID-19
 - Use of deep learning techniques
-- Developed the data pre-processing, training, evaluation, and visualization
+- Implemented the data pre-processing and model training and evaluation
 - Hyperparameter optimization of the network architecture
 - Evaluation of multiple forecast models (generated with STACKED-LSTM)
 
